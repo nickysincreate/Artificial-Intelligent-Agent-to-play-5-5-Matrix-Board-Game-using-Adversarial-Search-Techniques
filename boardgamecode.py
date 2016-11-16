@@ -2,7 +2,7 @@
 #Code takes input file as an input
 #Players can be X or O,option 1-GBFS,option 2- Minimax 3-Alphabeta 4 - Simulation
 from sys import argv
-__author__ = "ADD(Amit Deepak Deshmukh)"
+__author__ = "ADD(Nicky Singh)"
 
 script,opt,inputfilename = argv
 #READ Input contents
